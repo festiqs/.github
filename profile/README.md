@@ -8,3 +8,7 @@
 - [Michael - `@michaelbeutler`](https://github.com/michaelbeutler)
 - [Nico - `@NK2992`](https://github.com/NK2992)
 - [Patrick - `@hdptrck`](https://github.com/hdptrck)
+
+## Docs
+
+All docs can be found at https://docs.festiqs.com. (Whitelisted account required)
