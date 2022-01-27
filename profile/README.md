@@ -1,5 +1,7 @@
 # Festiqs :sparkles:
 
+QR-Code based B2B SaaS festival identification provider, management and payment solution.
+
 ## Team
 
 - [Basil- `@kinba3000`](https://github.com/kinba3000)
