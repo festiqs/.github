@@ -5,7 +5,6 @@ QR-Code based B2B SaaS festival identification provider, management and payment 
 ## Team
 
 - [Basil- `@kinba3000`](https://github.com/kinba3000)
-- [Denis - `@MueDen`](https://github.com/MueDen)
 - [Lukas - `@1H0`](https://github.com/1H0)
 - [Michael - `@michaelbeutler`](https://github.com/michaelbeutler)
 - [Nico - `@NK2992`](https://github.com/NK2992)
